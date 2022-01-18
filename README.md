@@ -33,5 +33,5 @@ Aparte de los atributos previamente mencionados, tenemos el atributo 'selectedVa
 `setBoton2Text(texto)`: Este metodo recibe un String y cambia el texto que contiene el boton2 por este String. </br></br>
 `getBoton1Text()`: Este metodo devuelve un String con el texto que contiene el boton1 </br></br> 
 `getBoton2Text()`: Este metodo devuelve un String con el texto que contiene el boton2</br></br> 
-`setAnimWidgetBackgroundColor(color)`: Este metodo cambia el color del widget selector por el color (ya sea mediante un hexadecimal o mediante un literal) especificado.
+`setAnimWidgetBackgroundColor(color)`: Este metodo cambia el color del widget selector por el color (ya sea mediante un hexadecimal o mediante un literal) especificado.</br></br>
 `getAnimWidgetBackgroundColor()`: Este metodo devuelve el color del widget selector como un String.
