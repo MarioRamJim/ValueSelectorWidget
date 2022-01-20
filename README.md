@@ -36,4 +36,4 @@ Aparte de los atributos previamente mencionados, tenemos el atributo 'selectedVa
 `setAnimWidgetBackgroundColor(color)`: Este metodo cambia el color del widget selector por el color (ya sea mediante un hexadecimal o mediante un literal) especificado.</br></br>
 `getAnimWidgetBackgroundColor()`: Este metodo devuelve el color del widget selector como un String.
 
-https://pypi.org/simple/ --no-deps ValueSelectorWidget-MarioRJ2002
+pip install ValueSelectorWidget-MarioRJ2002
